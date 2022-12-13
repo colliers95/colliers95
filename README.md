@@ -8,7 +8,7 @@ I'm a master's student at Harvard looking for opportunities to improve my softwa
 
 🌱 Currently learning: Systems development, scientific computing, reinforcement learning, AI for social impact<br />
 
-⚙️ Daily drivers: Python, C<br />
+⚙️ Daily driver: Python<br />
 
 🏢 Looking for: Opportunities to collaborate on research that matches my interests, and jobs in high-performing data and software teams<br />
 
