@@ -1,12 +1,12 @@
 Hi 👋
 
-I'm a master's student at Harvard looking for opportunities to improve my software engineering and machine learning skills.
+I'm a master's student at Harvard looking for opportunities to improve my software engineering, machine learning and trading skills.
 
 🎓 Studying: Harvard Computational Science and Engineering Masters, previously undergrad in engineering at Oxford<br />
 
-👀 Interested in: Decision-making through optimization and reinforcement learning<br />
+👀 Interested in: Decision-making through optimization and reinforcement learning, particularly in the power industry<br />
 
-🌱 Currently learning: Systems development, scientific computing, reinforcement learning, AI for social impact<br />
+🌱 Currently learning: Systems development, high-performance computing, ML & RL, AI for social impact, optimization, time-series and stochastic processes and capital markets<br />
 
 ⚙️ Daily driver: Python<br />
 
