@@ -6,7 +6,7 @@ I'm a master's student at Harvard looking for opportunities to improve my softwa
 
 👀 Interested in: Decision-making through optimization and machine learning, particularly in the power industry<br />
 
-🌱 Currently learning: Systems development, high-performance computing, ML & RL, AI for social impact, optimization, stochastic processes and capital markets<br />
+🌱 Currently learning: Systems development, high-performance computing, ML (inc. MLOps) & RL, AI for social impact, optimization, stochastic processes and capital markets<br />
 
 ⚙️ Daily driver: Python<br />
 
