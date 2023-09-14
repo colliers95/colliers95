@@ -12,7 +12,7 @@ I'm a master's student at Harvard looking for opportunities to improve my softwa
 
 🏢 Looking for: Opportunities to collaborate on research that matches my interests, and jobs in high-performing data and software teams<br />
 
-📫 Reach me: www.linkedin.com/in/sam-collier-87181510b<br />
+📫 Reach me: https://www.linkedin.com/in/scollier1/<br />
 
 <!---
 colliers95/collier\95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
