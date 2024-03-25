@@ -1,16 +1,14 @@
 Hi 👋
 
-I'm a master's student at Harvard looking for opportunities to improve my software engineering, machine learning and trading skills.
+I'm a Data Scientist at BCG X, the tech build and design division of Boston Consulting Group.
 
-🎓 Studying: Harvard Computational Science and Engineering Masters, previously undergrad in engineering at Oxford<br />
+🎓 Studyied: Harvard Computational Science and Engineering Masters, previously undergrad in engineering at Oxford<br />
 
 👀 Interested in: Decision-making through optimization and machine learning, particularly in the power industry<br />
 
-🌱 Currently learning: Systems development, high-performance computing, ML (inc. MLOps) & RL, AI for social impact, optimization, stochastic processes and capital markets<br />
+🌱 Always learning: Systems development, high-performance computing, ML (inc. MLOps) & RL, AI for social impact, optimization, stochastic processes and capital markets<br />
 
 ⚙️ Daily driver: Python<br />
-
-🏢 Looking for: Opportunities to collaborate on research that matches my interests, and jobs in high-performing data and software teams<br />
 
 📫 Reach me: https://www.linkedin.com/in/scollier1/<br />
 
