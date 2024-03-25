@@ -2,7 +2,7 @@ Hi 👋
 
 I'm a Data Scientist at BCG X, the tech build and design division of Boston Consulting Group.
 
-🎓 Studyied: Harvard Computational Science and Engineering Masters, previously undergrad in engineering at Oxford<br />
+🎓 Studied: Harvard Computational Science and Engineering Masters, previously undergrad in engineering at Oxford<br />
 
 👀 Interested in: Decision-making through optimization and machine learning, particularly in the power industry<br />
 
